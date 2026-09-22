@@ -1,0 +1,52 @@
+name: Suggest a certification
+description: Propose an AI certification to add, or report one that's out of date.
+title: "Suggest: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks! Each suggestion is checked against the vendor's official page before it's added.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is this?
+      options:
+        - A certification to add
+        - A correction (fee, prerequisites, status, link)
+        - A certification that has been retired
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Certification name and exam code
+      placeholder: e.g. AWS Certified AI Practitioner (AIF-C01)
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official vendor page
+      description: A link to the certification on the vendor's own site.
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Which domain do you think it fits? (optional)
+      options:
+        - Not sure
+        - AI Literacy & Adoption
+        - ML Engineering & MLOps
+        - GenAI & Agent Development
+        - AI Infrastructure
+        - AI Quality & Testing
+        - AI Security
+        - AI Red Teaming
+        - AI Governance, Risk & Audit
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Fees, prerequisites, launch date, or what changed.
