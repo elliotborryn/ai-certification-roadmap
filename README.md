@@ -58,4 +58,6 @@ Missing one, or spotted an outdated fee? [Open a suggestion](https://github.com/
 
 ---
 
+Inspired by [Dragkob's Security Certification Roadmap](https://github.com/Dragkob/Security-Certification-Roadmap).
+
 © 2026 Elliot ([@elliotborryn](https://github.com/elliotborryn)). All rights reserved.
