@@ -2,10 +2,9 @@
 
 **Find the AI certification that fits your work, and see what comes next.**
 
-[![Open the roadmap](https://img.shields.io/badge/Open_the_roadmap-elliotborryn.github.io-2563eb?style=for-the-badge)](https://elliotborryn.github.io/ai-certification-roadmap/)
-[![Validate data](https://github.com/elliotborryn/ai-certification-roadmap/actions/workflows/validate.yml/badge.svg)](https://github.com/elliotborryn/ai-certification-roadmap/actions/workflows/validate.yml)
-
 [![AI Certification Roadmap](assets/banner-image.png)](https://elliotborryn.github.io/ai-certification-roadmap/)
+
+[![Open the roadmap](https://img.shields.io/badge/Open_the_roadmap-elliotborryn.github.io-2563eb?style=for-the-badge)](https://elliotborryn.github.io/ai-certification-roadmap/)
 
 The roadmap maps more than 50 AI certifications from vendors such as AWS, Microsoft, Google Cloud, NVIDIA, Anthropic, ISACA, GIAC and CompTIA. Each one is placed in a **domain** (what it proves) and a **level** (how much experience it expects). Pick your domain, start at L1 and climb.
 
@@ -59,5 +58,7 @@ Missing one, or spotted an outdated fee? [Open a suggestion](https://github.com/
 ---
 
 Inspired by [Dragkob's Security Certification Roadmap](https://github.com/Dragkob/Security-Certification-Roadmap).
+
+[![Validate data](https://github.com/elliotborryn/ai-certification-roadmap/actions/workflows/validate.yml/badge.svg)](https://github.com/elliotborryn/ai-certification-roadmap/actions/workflows/validate.yml)
 
 © 2026 Elliot ([@elliotborryn](https://github.com/elliotborryn)). All rights reserved.
