@@ -76,7 +76,7 @@
       "price": "$99",
       "status": "new",
       "source": "reports",
-      "url": "https://learn.microsoft.com/en-us/credentials/",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/",
       "what": "AI and generative AI concepts, responsible AI, and common workloads on Azure and Microsoft Foundry. Replaced AI-900 in 2026.",
       "before": "No prerequisites."
     },
@@ -89,7 +89,7 @@
       "price": "$100",
       "status": "active",
       "source": "reports",
-      "url": "https://aws.amazon.com/certification/",
+      "url": "https://aws.amazon.com/certification/certified-ai-practitioner/",
       "what": "AI, ML and generative AI fundamentals, responsible AI and AWS AI services, aimed at people who work with AI rather than build it.",
       "before": "No prerequisites."
     },
@@ -102,7 +102,7 @@
       "price": "$99",
       "status": "active",
       "source": "reports",
-      "url": "https://cloud.google.com/learn/certification",
+      "url": "https://cloud.google.com/learn/certification/generative-ai-leader",
       "what": "Generative AI strategy and adoption for managers and decision-makers.",
       "before": "No prerequisites."
     },
@@ -128,7 +128,7 @@
       "price": "Free",
       "status": "active",
       "source": "reports",
-      "url": "https://education.oracle.com/",
+      "url": "https://education.oracle.com/oracle-cloud-infrastructure-2025-certified-ai-foundations-associate/trackp_OCI25AICFA",
       "what": "AI and ML basics with Oracle's AI services.",
       "before": "No prerequisites."
     },
@@ -141,7 +141,7 @@
       "price": "$99",
       "status": "new",
       "source": "vendor",
-      "url": "https://www.pearsonvue.com/us/en/anthropic.html",
+      "url": "https://anthropic-partners.skilljar.com/claude-certified-associate-foundations-certification",
       "what": "Advising on and positioning Claude-based solutions.",
       "before": "Registration runs through the Claude Partner Network, which organisations can join for free. No formal exam prerequisites."
     },
@@ -154,7 +154,7 @@
       "price": "See vendor",
       "status": "new",
       "source": "reports",
-      "url": "https://learn.microsoft.com/en-us/credentials/",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/copilot-and-agent-administration-fundamentals/",
       "what": "Deploying and governing Microsoft 365 Copilot and agents as an IT administrator.",
       "before": "No formal prerequisites."
     },
@@ -180,7 +180,7 @@
       "price": "See vendor",
       "status": "new",
       "source": "reports",
-      "url": "https://learn.microsoft.com/en-us/credentials/",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/ai-transformation-leader/",
       "what": "Planning AI adoption, managing risk and leading organisational change.",
       "before": "No formal prerequisites."
     },
@@ -193,7 +193,7 @@
       "price": "$367.50",
       "status": "active",
       "source": "reports",
-      "url": "https://certnexus.com/",
+      "url": "https://certnexus.com/certified-artificial-intelligence-practitioner-caip/",
       "what": "Vendor-neutral ML lifecycle: data preparation, model training, evaluation and responsible AI.",
       "before": "No formal prerequisites. 1–3 years of hands-on practice recommended."
     },
@@ -206,7 +206,7 @@
       "price": "$150",
       "status": "active",
       "source": "reports",
-      "url": "https://aws.amazon.com/certification/",
+      "url": "https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/",
       "what": "Data preparation, model deployment, orchestration and monitoring on AWS. Transitioning to a new exam version, MLA-C02.",
       "before": "About a year of hands-on SageMaker experience recommended."
     },
@@ -219,7 +219,7 @@
       "price": "See vendor",
       "status": "new",
       "source": "reports",
-      "url": "https://learn.microsoft.com/en-us/credentials/",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/operationalizing-machine-learning-and-generative-ai-solutions/",
       "what": "MLOps and GenAIOps on Azure: model deployment, monitoring and reliability at scale. Replaced DP-100.",
       "before": "Experience with Azure and ML workflows recommended."
     },
@@ -232,7 +232,7 @@
       "price": "See vendor",
       "status": "active",
       "source": "reports",
-      "url": "https://www.databricks.com/learn/certification",
+      "url": "https://www.databricks.com/learn/certification/machine-learning-associate",
       "what": "Core machine learning tasks on the Databricks platform.",
       "before": "Some Databricks and Python experience recommended."
     },
@@ -245,7 +245,7 @@
       "price": "See vendor",
       "status": "active",
       "source": "reports",
-      "url": "https://www.databricks.com/learn/certification",
+      "url": "https://www.databricks.com/learn/certification/machine-learning-professional",
       "what": "Production machine learning and MLOps on Databricks.",
       "before": "Associate-level knowledge and production experience recommended."
     },
@@ -258,7 +258,7 @@
       "price": "$200",
       "status": "active",
       "source": "reports",
-      "url": "https://cloud.google.com/learn/certification",
+      "url": "https://cloud.google.com/learn/certification/machine-learning-engineer",
       "what": "Designing, building and operating ML systems on Google Cloud.",
       "before": "3+ years of industry experience recommended, including 1+ year on Google Cloud."
     },
@@ -271,7 +271,7 @@
       "price": "See vendor",
       "status": "active",
       "source": "reports",
-      "url": "https://www.nvidia.com/en-us/learn/certification/",
+      "url": "https://www.nvidia.com/en-us/learn/certification/accelerated-data-science-professional/",
       "what": "GPU-accelerated data science workflows.",
       "before": "1–3 years of relevant experience recommended."
     },
@@ -284,7 +284,7 @@
       "price": "$125",
       "status": "active",
       "source": "vendor",
-      "url": "https://www.nvidia.com/en-us/learn/certification/",
+      "url": "https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/",
       "what": "LLM fundamentals, prompting and building generative AI applications with NVIDIA tools.",
       "before": "Basic ML concepts and some Python."
     },
@@ -297,7 +297,7 @@
       "price": "$125",
       "status": "active",
       "source": "vendor",
-      "url": "https://www.nvidia.com/en-us/learn/certification/",
+      "url": "https://www.nvidia.com/en-us/learn/certification/generative-ai-multimodal-associate/",
       "what": "Generative AI systems that work across text, image and audio.",
       "before": "Basic ML concepts and some Python."
     },
@@ -323,7 +323,7 @@
       "price": "See vendor",
       "status": "new",
       "source": "reports",
-      "url": "https://learn.microsoft.com/en-us/credentials/",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/ai-agent-builder-associate/",
       "what": "Designing, building and managing agents in Microsoft Copilot Studio.",
       "before": "No formal prerequisites."
     },
@@ -336,7 +336,7 @@
       "price": "See vendor",
       "status": "active",
       "source": "reports",
-      "url": "https://www.databricks.com/learn/certification",
+      "url": "https://www.databricks.com/learn/certification/genai-engineer-associate",
       "what": "Building LLM applications and RAG pipelines on Databricks.",
       "before": "Some Databricks and Python experience recommended."
     },
@@ -349,7 +349,7 @@
       "price": "See vendor",
       "status": "active",
       "source": "reports",
-      "url": "https://trailhead.salesforce.com/credentials",
+      "url": "https://trailhead.salesforce.com/credentials/agentforcespecialist",
       "what": "Configuring and deploying AI agents on the Salesforce platform.",
       "before": "Salesforce platform experience recommended."
     },
@@ -362,7 +362,7 @@
       "price": "$125",
       "status": "new",
       "source": "vendor",
-      "url": "https://www.pearsonvue.com/us/en/anthropic.html",
+      "url": "https://anthropic-partners.skilljar.com/claude-certified-developer-foundations-certification",
       "what": "Building applications with the Claude API and developer tooling.",
       "before": "Registration runs through the Claude Partner Network, which organisations can join for free. No formal exam prerequisites."
     },
@@ -375,7 +375,7 @@
       "price": "$125",
       "status": "new",
       "source": "vendor",
-      "url": "https://www.pearsonvue.com/us/en/anthropic.html",
+      "url": "https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification",
       "what": "Architecture decisions for production Claude applications across Claude Code, the Agent SDK, the API and MCP. Early coverage called it CCA-F.",
       "before": "Registration runs through the Claude Partner Network, which organisations can join for free. No formal exam prerequisites."
     },
@@ -388,7 +388,7 @@
       "price": "$200",
       "status": "active",
       "source": "reports",
-      "url": "https://www.nvidia.com/en-us/learn/certification/",
+      "url": "https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-professional/",
       "what": "Training, fine-tuning and optimising LLMs for production.",
       "before": "1–3 years of relevant experience recommended."
     },
@@ -414,7 +414,7 @@
       "price": "$300",
       "status": "new",
       "source": "vendor",
-      "url": "https://aws.amazon.com/certification/",
+      "url": "https://aws.amazon.com/certification/certified-generative-ai-developer-professional/",
       "what": "Integrating foundation models into applications and workflows with Amazon Bedrock, RAG and agents.",
       "before": "Hands-on AWS generative AI experience recommended."
     },
@@ -427,7 +427,7 @@
       "price": "See vendor",
       "status": "beta",
       "source": "reports",
-      "url": "https://cloud.google.com/learn/certification",
+      "url": "https://cloud.google.com/learn/certification/agentic-architect",
       "what": "Designing agent-based systems on Google Cloud. Beta registration opened in September 2026.",
       "before": "Professional-level Google Cloud experience recommended."
     },
@@ -440,7 +440,7 @@
       "price": "See vendor",
       "status": "active",
       "source": "reports",
-      "url": "https://education.oracle.com/",
+      "url": "https://education.oracle.com/oracle-cloud-infrastructure-2026-generative-ai-certified-professional/trackp_OCI26GAIOCP",
       "what": "Building generative AI solutions on Oracle Cloud Infrastructure.",
       "before": "Oracle Cloud experience recommended."
     },
@@ -466,7 +466,7 @@
       "price": "$175",
       "status": "new",
       "source": "vendor",
-      "url": "https://www.pearsonvue.com/us/en/anthropic.html",
+      "url": "https://anthropic-partners.skilljar.com/claude-certified-architect-professional-certification",
       "what": "Advanced architecture of Claude solutions.",
       "before": "Registration runs through the Claude Partner Network, which organisations can join for free. No formal exam prerequisites."
     },
@@ -479,7 +479,7 @@
       "price": "$125",
       "status": "active",
       "source": "vendor",
-      "url": "https://www.nvidia.com/en-us/learn/certification/",
+      "url": "https://www.nvidia.com/en-us/learn/certification/ai-infrastructure-operations-associate/",
       "what": "GPU and AI infrastructure fundamentals, containerised AI workloads and basic operations.",
       "before": "Basic Linux and infrastructure knowledge."
     },
@@ -492,7 +492,7 @@
       "price": "$400",
       "status": "active",
       "source": "reports",
-      "url": "https://www.nvidia.com/en-us/learn/certification/",
+      "url": "https://www.nvidia.com/en-us/learn/certification/ai-infrastructure-professional/",
       "what": "Bringing up and deploying GPU systems and clusters.",
       "before": "1–3 years of operational experience recommended."
     },
@@ -505,7 +505,7 @@
       "price": "See vendor",
       "status": "active",
       "source": "reports",
-      "url": "https://www.nvidia.com/en-us/learn/certification/",
+      "url": "https://www.nvidia.com/en-us/learn/certification/ai-operations-professional/",
       "what": "Monitoring, optimising and troubleshooting AI workloads at scale.",
       "before": "1–3 years of operational experience recommended."
     },
@@ -518,7 +518,7 @@
       "price": "$400",
       "status": "active",
       "source": "reports",
-      "url": "https://www.nvidia.com/en-us/learn/certification/",
+      "url": "https://www.nvidia.com/en-us/learn/certification/ai-networking-professional/",
       "what": "The networking fabric that connects AI clusters, including InfiniBand, RoCE and Spectrum-X.",
       "before": "Networking experience recommended."
     },
@@ -531,7 +531,7 @@
       "price": "See vendor",
       "status": "prereq",
       "source": "vendor",
-      "url": "https://istqb.org/",
+      "url": "https://istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/",
       "what": "General software testing foundation. Not AI-specific, but required before either ISTQB AI certification.",
       "before": "No prerequisites."
     },
@@ -570,7 +570,7 @@
       "price": "See vendor",
       "status": "active",
       "source": "reports",
-      "url": "https://www.practical-devsecops.com/",
+      "url": "https://www.practical-devsecops.com/certified-ai-security-professional/",
       "what": "Hands-on AI security based on the OWASP Top 10 for LLMs and MITRE ATLAS, covering both attack and defence.",
       "before": "No formal prerequisites."
     },
@@ -614,6 +614,19 @@
       "before": "Security experience recommended. The affiliated SANS course is the usual preparation."
     },
     {
+      "code": "CMCPSE",
+      "name": "Certified MCP Security Expert",
+      "vendor": "Practical DevSecOps",
+      "domain": "sec",
+      "level": 3,
+      "price": "$699 (course, labs and exam)",
+      "status": "new",
+      "source": "vendor",
+      "url": "https://www.practical-devsecops.com/certified-mcp-security-expert/",
+      "what": "Attacking and defending Model Context Protocol (MCP) deployments: tool poisoning, prompt injection, rug pulls and cross-server privilege escalation, plus hardening and monitoring. Ends in a 6-hour practical exam and a written report.",
+      "before": "No formal prerequisites. Basic Linux skills needed; scripting, security fundamentals and AI familiarity help."
+    },
+    {
       "code": "AAISM",
       "name": "ISACA Advanced in AI Security Management",
       "vendor": "ISACA",
@@ -648,7 +661,7 @@
       "price": "See vendor",
       "status": "new",
       "source": "vendor",
-      "url": "https://www.giac.org/focus-areas/artificial-intelligence",
+      "url": "https://www.giac.org/certifications/offensive-ai-analyst-goaa",
       "what": "Applying offensive AI techniques to real security problems. Hands-on CyberLive exam.",
       "before": "Offensive security experience recommended."
     },
@@ -664,6 +677,32 @@
       "url": "https://www.eccouncil.org/ai-courses/certified-offensive-ai-security-professional-coasp/",
       "what": "Red-teaming LLMs: prompt injection, model extraction, data poisoning, agent hijacking and defensive engineering.",
       "before": "Foundational cybersecurity knowledge required; EC-Council says it is not a beginner course."
+    },
+    {
+      "code": "AIRTP+",
+      "name": "AI Red Teaming Professional",
+      "vendor": "Learn Prompting",
+      "domain": "red",
+      "level": 3,
+      "price": "$299 (exam only; $1,199 with course)",
+      "status": "new",
+      "source": "vendor",
+      "url": "https://learnprompting.org/certificates/ai-red-teaming-professional-certification",
+      "what": "Attacking and securing large language models: prompt injection, jailbreaking and AI security defences. Ends in a hands-on 24-hour exam.",
+      "before": "No formal prerequisites. Familiarity with large language models, prompt injection and jailbreaking recommended."
+    },
+    {
+      "code": "C-AgAIPen",
+      "name": "Certified Agentic AI Pentester",
+      "vendor": "The SecOps Group",
+      "domain": "red",
+      "level": 3,
+      "price": "About $335 (priced in GBP)",
+      "status": "new",
+      "source": "vendor",
+      "url": "https://pentestingexams.com/certifications/professional/certified-agentic-ai-pentester/",
+      "what": "Practical exam on attacking AI agents: prompt injection, tool abuse, agent hijacking and memory poisoning, based on the OWASP Top 10 for agentic applications. Launched April 2026.",
+      "before": "No formal prerequisites. Two years of professional pentesting experience recommended."
     },
     {
       "code": "OSAI+",
@@ -687,7 +726,7 @@
       "price": "See vendor",
       "status": "active",
       "source": "reports",
-      "url": "https://pecb.com/",
+      "url": "https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-foundation",
       "what": "Basics of ISO/IEC 42001, the international standard for AI management systems.",
       "before": "No prerequisites."
     },
@@ -726,7 +765,7 @@
       "price": "See vendor",
       "status": "active",
       "source": "reports",
-      "url": "https://pecb.com/",
+      "url": "https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-lead-implementer",
       "what": "Implementing an AI management system in an organisation.",
       "before": "Management system or governance experience recommended."
     },
@@ -739,9 +778,22 @@
       "price": "See vendor",
       "status": "active",
       "source": "reports",
-      "url": "https://pecb.com/",
+      "url": "https://pecb.com/en/education-and-certification-for-individuals/iso-iec-42001/iso-iec-42001-lead-auditor",
       "what": "Auditing AI management systems against ISO/IEC 42001.",
       "before": "Audit experience recommended."
+    },
+    {
+      "code": "CRAGE",
+      "name": "EC-Council Certified Responsible AI Governance & Ethics",
+      "vendor": "EC-Council",
+      "domain": "grc",
+      "level": 3,
+      "price": "See vendor",
+      "status": "beta",
+      "source": "vendor",
+      "url": "https://www.eccouncil.org/ai-courses/certified-responsible-ai-governance-ethics-crage/",
+      "what": "Governing AI responsibly across its lifecycle: ethics, risk management, regulatory compliance, third-party risk and auditing. 100-question, 3-hour exam.",
+      "before": "Requires official EC-Council training, or 2 years of information security experience plus a $100 application fee."
     },
     {
       "code": "AAIA",
